@@ -1,0 +1,1 @@
+"# quikcstart-scala-maven" 
